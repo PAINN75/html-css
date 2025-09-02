@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    background-color: #2E94CC;
+    color: white;
+    min-height: 69px;
+    padding-top: 1px;
+    margin: -9px;
+    border:0px ;
+}
+.navio{
+    width: 20px;
+    height: 20px;
+    display: inline;
+}
+nav > p{
+    width: 10%;
+    height: 10%;
+    display: inline;
+} 
+
+article{
+    min-width: 320px;
+    max-width: 800px;
+    max-height: 100%;
+    padding: 15px;
+    margin: auto;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-top: 0px;
+}
+div{
+    margin: auto;
+    background-color: rgba(208, 204, 204, 0.301);
+    padding: 10px;
+}
+a{
+    color: #2E94CC;
+}
